@@ -8,7 +8,29 @@ Le github est séparé en plusieurs branches :
 - [sprint2](https://github.com/ewanlenogue/Agile_GRP_3/tree/sprint2)
 - [sprint3](https://github.com/ewanlenogue/Agile_GRP_3/tree/sprint3)
 
-La branch main represente la version la plus abouti du projet 
+La branch main represente la version la plus abouti du projet
+
+Les branch des sprint ne sont plus modifiable a la fin de son sprint associé
+
+# 2️⃣ Les commandes utiles :
+
+Ajout du repo distant :
+```
+git clone git@github.com:ewanlenogue/Agile_GRP_3.git
+
+git checkout sprint1
+git checkout sprint2
+git checkout sprint3
+
+```
+
+Pour changer de branch
+```
+git checkout nom_branch
+```
+
+
+
 
 # TP Agile - Déploiement Kubernetes
 
@@ -25,3 +47,7 @@ La branch main represente la version la plus abouti du projet
 - 🌐 Adressage : 172.16.130.60 --> 172.16.130.63
 - 🔀 Gateway : 172.16.255.254
 - 🖋️ Nommage : \<Fonction_VM>\-GRP-3
+
+
+```
+```
