@@ -2,11 +2,11 @@
 
 # 1️⃣ Les branch :
 
-Le github est séparer en plusieur branch :
-    - main<https://github.com/ewanlenogue/Agile_GRP_3>
-    - sprint1<https://github.com/ewanlenogue/Agile_GRP_3/tree/sprint1>
-    - sprint2<https://github.com/ewanlenogue/Agile_GRP_3/tree/sprint2>
-    - sprint3<https://github.com/ewanlenogue/Agile_GRP_3/tree/sprint3>
+Le github est séparé en plusieurs branches :
+- [main](https://github.com/ewanlenogue/Agile_GRP_3)
+- [sprint1](https://github.com/ewanlenogue/Agile_GRP_3/tree/sprint1)
+- [sprint2](https://github.com/ewanlenogue/Agile_GRP_3/tree/sprint2)
+- [sprint3](https://github.com/ewanlenogue/Agile_GRP_3/tree/sprint3)
 
 La branch main represente la version la plus abouti du projet 
 
