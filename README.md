@@ -29,7 +29,17 @@ Pour changer de branch
 git checkout nom_branch
 ```
 
+Mettre a jour le depot
+```
+# Se placer sur main
+git checkout main
 
+# Fusionner sprint1
+git merge sprint1
+
+# Pousser les changements sur GitHub
+git push
+```
 
 
 # TP Agile - Déploiement Kubernetes
