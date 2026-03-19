@@ -1,3 +1,5 @@
+Premier sprint
+
 Team Dev : 
 
     3 VM sont monté, un Master 2 et Agent
@@ -23,8 +25,19 @@ Team PO :
 Team SM :
 
     
-    créaction du githu avec les différence branch et les fichier qui seront présent
+    créaction du github avec les différence branch et les fichier qui seront présent
 
     finir de tout créer et push et d'expliquer a l'équipe comment tout cela va fonctionner et comment faire au niveau des commandes
 
     problème avec les commandes git jamais utiliser changer de branch ou en créer une. et le créaction de fichier de puis la console powershell
+
+
+Deuxieme
+
+Team SM :
+
+    Finilisation des branch et fichier avec l'ajout de la documentation sur l'utilisation du projet
+
+    Vérification que tout les fichiers/documentation soit bien push sur le projet
+
+    Reussir a afficher comme je veux sur le README du github

@@ -16,8 +16,10 @@ Les branch des sprint ne sont plus modifiable a la fin de son sprint associé
 
 Ajout du repo distant :
 ```
+# Recuperaction du projet
 git clone git@github.com:ewanlenogue/Agile_GRP_3.git
 
+# Ajout des différente branch
 git checkout sprint1
 git checkout sprint2
 git checkout sprint3
@@ -34,8 +36,8 @@ Mettre a jour le depot
 # Se placer sur main
 git checkout main
 
-# Fusionner sprint1
-git merge sprint1
+# Fusionner le sprint en cours
+git merge nom_sprint
 
 # Pousser les changements sur GitHub
 git push
