@@ -1,4 +1,6 @@
-# 1️⃣ Repartition des rôles : 
+# TP Agile - Déploiement Kubernetes
+
+# 1️⃣ Répartition des rôles : 
 
 - 🧑‍💼 Product Owner (PO) : Florent
 - 🧑‍🔧 Scrum Master (SM) : Ewan
