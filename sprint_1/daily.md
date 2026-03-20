@@ -1,66 +1,100 @@
-Premier sprint
+# 📅 Daily - Sprint 1
 
-Team Dev : 
+---
 
-    3 VM sont monté, un Master 2 et Agent
-    Installer K3S avec le bon fonctionnement
-    Configuration et relier permet de voir depuis le master les 2 auters worker
+## 🧑‍💻 Team Dev
 
-    Deployer les applications (dockers compose)
+### ✅ Ce que j’ai fait
+- 3 VM sont montées : 1 Master, 2 Agents  
+- Installation de K3S avec un bon fonctionnement  
+- Configuration réalisée permettant de voir depuis le master les 2 autres workers  
 
-    Probleme su l'installation k3s, problème t'envoie du token du master vers les workers avec mal comprehension des commandes + problème de performense sur les VM
+### 🔜 Ce que je vais faire
+- Déployer les applications (Docker Compose)
 
-Team PO : 
+### 🚧 Mes blocages
+- Problème sur l'installation de K3S  
+- Problème d’envoi du token du master vers les workers (mauvaise compréhension des commandes)  
+- Problèmes de performances sur les VM  
 
-    Product goal et product backlog ecrit
-    ecriture sprint goal
-    documentation de la mise en place
-    user stories
+---
 
-    definir les nouveau objectif sprint et backlog et sassurer que les bakclog soit coerante avec le projet en cours
+## 📌 Team PO
 
-    probleme de reherche pour définir correctement le but du sprint
+### ✅ Ce que j’ai fait
+- Product Goal et Product Backlog écrits  
+- Écriture du Sprint Goal  
+- Documentation de la mise en place  
+- Rédaction des User Stories  
 
+### 🔜 Ce que je vais faire
+- Définir les nouveaux objectifs du sprint et du backlog  
+- S’assurer que le backlog soit cohérent avec le projet en cours  
 
-Team SM :
+### 🚧 Mes blocages
+- Problème de recherche pour définir correctement le but du sprint  
 
-    
-    créaction du github avec les différence branch et les fichier qui seront présent
+---
 
-    finir de tout créer et push et d'expliquer a l'équipe comment tout cela va fonctionner et comment faire au niveau des commandes
+## ⚙️ Team SM
 
-    problème avec les commandes git jamais utiliser changer de branch ou en créer une. et le créaction de fichier de puis la console powershell
+### ✅ Ce que j’ai fait
+- Création du GitHub avec les différentes branches et les fichiers nécessaires  
 
+### 🔜 Ce que je vais faire
+- Finaliser la création et le push  
+- Expliquer à l’équipe le fonctionnement du projet et les commandes à utiliser  
 
-Deuxieme
+### 🚧 Mes blocages
+- Difficultés avec les commandes Git (création/changement de branches)  
+- Création de fichiers via la console PowerShell  
 
-Team SM :
+---
 
-    Finilisation des branch et fichier avec l'ajout de la documentation sur l'utilisation du projet
+# 📅 Daily - Sprint 2
 
-    Vérification que tout les fichiers/documentation soit bien push sur le projet
+---
 
-    Reussir a afficher comme je veux sur le README du github
+## ⚙️ Team SM
 
-Team PO :
+### ✅ Ce que j’ai fait
+- Finalisation des branches et fichiers  
+- Ajout de la documentation sur l’utilisation du projet  
 
-    Ce que j’ai fait
-    j'ai modifier le product backlog avec des tâches plus détaillés et déconstruit en plusieurs sous tâches, j'ai modifier le sprint backlog en conséquences. maintenant les objectifs du backlog sont plus clair et plus organisés
+### 🔜 Ce que je vais faire
+- Vérifier que tous les fichiers et la documentation sont bien push sur le projet  
 
-    Ce que je vais faire
-    Améliorer la corrélation entre ce que l'équipe DEV produit et ce qui est renseigné dans le backlog, pour le sprint 1 
+### 🚧 Mes blocages
+- Réussir à afficher correctement le README sur GitHub  
 
-    Mes blocages
-    aucun blocage particuliers
+---
 
-Team Dev :
+## 📌 Team PO
 
-    Installer 3 machines debian
-    Adresser ces 3 machines
-    Installer k3s sur les 3 machines
-    Donner les rôles aux différentes machines
-    La configuration k3s
-    Faire rejoindre les workers au master
-    Mettre en place une app-web avec ngninx qui fonctionne
+### ✅ Ce que j’ai fait
+- Modification du Product Backlog avec des tâches plus détaillées  
+- Découpage en sous-tâches  
+- Mise à jour du Sprint Backlog en conséquence  
+- Objectifs désormais plus clairs et mieux organisés  
 
-    
+### 🔜 Ce que je vais faire
+- Améliorer la corrélation entre le travail de l’équipe DEV et le backlog (Sprint 1)  
+
+### 🚧 Mes blocages
+- Aucun blocage particulier  
+
+---
+
+## 🧑‍💻 Team Dev
+
+### ✅ Ce que j’ai fait
+- Configuration de K3S  
+- Ajout des workers au master  
+- Mise en place d’une application web avec Nginx fonctionnelle  
+
+### 🔜 Ce que je vais faire
+- Mettre en place l’API  
+- Exposer les services  
+
+### 🚧 Mes blocages
+- Aucun blocage mentionné  
