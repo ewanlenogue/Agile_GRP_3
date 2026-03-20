@@ -1,7 +1,7 @@
 # 📅 Daily - Sprint 1
-# Premier daily
-
 ---
+
+# Premier daily
 
 ## 🧑‍💻 Team Dev
 
@@ -53,8 +53,6 @@
 ---
 
 # Deuxième daily
-
----
 
 ## ⚙️ Team SM
 
