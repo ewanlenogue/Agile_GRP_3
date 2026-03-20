@@ -1,4 +1,5 @@
 # 📅 Daily - Sprint 1
+# Premier daily
 
 ---
 
@@ -51,7 +52,7 @@
 
 ---
 
-# 📅 Daily - Sprint 2
+# Deuxième daily
 
 ---
 
