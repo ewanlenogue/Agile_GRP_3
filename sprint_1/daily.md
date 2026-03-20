@@ -41,3 +41,26 @@ Team SM :
     Vérification que tout les fichiers/documentation soit bien push sur le projet
 
     Reussir a afficher comme je veux sur le README du github
+
+Team PO :
+
+    Ce que j’ai fait
+    j'ai modifier le product backlog avec des tâches plus détaillés et déconstruit en plusieurs sous tâches, j'ai modifier le sprint backlog en conséquences. maintenant les objectifs du backlog sont plus clair et plus organisés
+
+    Ce que je vais faire
+    Améliorer la corrélation entre ce que l'équipe DEV produit et ce qui est renseigné dans le backlog, pour le sprint 1 
+
+    Mes blocages
+    aucun blocage particuliers
+
+Team Dev :
+
+    Installer 3 machines debian
+    Adresser ces 3 machines
+    Installer k3s sur les 3 machines
+    Donner les rôles aux différentes machines
+    La configuration k3s
+    Faire rejoindre les workers au master
+    Mettre en place une app-web avec ngninx qui fonctionne
+
+    
