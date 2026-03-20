@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Github - Commande et gestion
 
 # 1️⃣ Les branch :
@@ -63,3 +64,5 @@ git push
 
 ```
 ```
+=======
+>>>>>>> c5dc70673c57d3e9c766237b32fb53f0d5431c36
