@@ -1,5 +1,4 @@
 # 🧾 Sprint Review 3
-
 ## 📌 Informations générales
 - **Projet** : Agile_GRP_3  
 - **Sprint** : Sprint 3
