@@ -1,4 +1,4 @@
-# 🔄 Sprint Rétrospective 2
+# 🔄 Sprint Rétrospective 3
 ## 📌 Informations générales
 - **Projet** : Agile_GRP_3
 - **Sprint** : Sprint 2
