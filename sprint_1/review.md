@@ -4,7 +4,7 @@
 - **Projet** : Agile_GRP_3  
 - **Sprint** : Sprint 1  
 - **Date** : 19/03/2026  
-- **Participants** : Équipe projet  
+- **Participants** : Équipe 3  
 
 ---
 
